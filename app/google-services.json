@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "631531110679",
+    "project_id": "fragments-fbd3c",
+    "storage_bucket": "fragments-fbd3c.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:631531110679:android:e3fca97d4dd54b85ad7752",
+        "android_client_info": {
+          "package_name": "com.ben.heladeria"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBsTSk2QmArOvP4NSaMBlE958Pv0NUWuJE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

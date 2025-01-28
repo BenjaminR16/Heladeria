@@ -2,4 +2,11 @@
 <resources>
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
+    <color name="fragment">#C0F5EF</color>
+    <color name="vainilla">#F3E5AB</color>
+    <color name="chocolate">#8B4513</color>
+    <color name="fresa">#FF6F61</color>
+    <color name="tarina">#D3D3D3</color>
+    <color name="cucurucho">#F5DEB3</color>
+
 </resources>
